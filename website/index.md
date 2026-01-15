@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1>Welcome to My Website</h1>
-    <p>This site will be about: (your idea here)</p>
+    <p>This site is my resume</p>
     <p><a href="/resume">View my resume</a></p>
   </body>
 </html>
